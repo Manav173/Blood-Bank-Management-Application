@@ -92,17 +92,11 @@ You can apply multiple filters by including them as query parameters. **Supporte
    ```bash
    git clone https://github.com/Manav173/Blood-Bank-Management-Application.git
    
-2. Navigate to the project directory.
-
-   ```bash
-   cd Blood-Bank-Management-Application
+2. Open the Folder in File Explorer.
    
-3. Build and run the application using:
+3. Open the "Blood Bank Management Application.sln" file with Microsoft Visual Studio 2022.
    
-   ```bash
-   dotnet run
-   
-4. Access the API at https://localhost:<port>/api/BloodBank.
+4. At the top center click on the "https" button to open it in the default browser.
 
 ---
 
