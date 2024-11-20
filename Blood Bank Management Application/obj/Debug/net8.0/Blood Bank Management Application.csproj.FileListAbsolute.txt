@@ -1,0 +1,32 @@
+C:\Users\manav\source\repos\Blood Bank Management Application\Blood Bank Management Application\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\manav\source\repos\Blood Bank Management Application\Blood Bank Management Application\bin\Debug\net8.0\appsettings.json
+C:\Users\manav\source\repos\Blood Bank Management Application\Blood Bank Management Application\bin\Debug\net8.0\Blood Bank Management Application.exe
+C:\Users\manav\source\repos\Blood Bank Management Application\Blood Bank Management Application\bin\Debug\net8.0\Blood Bank Management Application.deps.json
+C:\Users\manav\source\repos\Blood Bank Management Application\Blood Bank Management Application\bin\Debug\net8.0\Blood Bank Management Application.runtimeconfig.json
+C:\Users\manav\source\repos\Blood Bank Management Application\Blood Bank Management Application\bin\Debug\net8.0\Blood Bank Management Application.dll
+C:\Users\manav\source\repos\Blood Bank Management Application\Blood Bank Management Application\bin\Debug\net8.0\Blood Bank Management Application.pdb
+C:\Users\manav\source\repos\Blood Bank Management Application\Blood Bank Management Application\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\manav\source\repos\Blood Bank Management Application\Blood Bank Management Application\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\manav\source\repos\Blood Bank Management Application\Blood Bank Management Application\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\manav\source\repos\Blood Bank Management Application\Blood Bank Management Application\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\manav\source\repos\Blood Bank Management Application\Blood Bank Management Application\obj\Debug\net8.0\Blood Bank Management Application.csproj.AssemblyReference.cache
+C:\Users\manav\source\repos\Blood Bank Management Application\Blood Bank Management Application\obj\Debug\net8.0\Blood Bank Management Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manav\source\repos\Blood Bank Management Application\Blood Bank Management Application\obj\Debug\net8.0\Blood Bank Management Application.AssemblyInfoInputs.cache
+C:\Users\manav\source\repos\Blood Bank Management Application\Blood Bank Management Application\obj\Debug\net8.0\Blood Bank Management Application.AssemblyInfo.cs
+C:\Users\manav\source\repos\Blood Bank Management Application\Blood Bank Management Application\obj\Debug\net8.0\Blood Bank Management Application.csproj.CoreCompileInputs.cache
+C:\Users\manav\source\repos\Blood Bank Management Application\Blood Bank Management Application\obj\Debug\net8.0\Blood Bank Management Application.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\manav\source\repos\Blood Bank Management Application\Blood Bank Management Application\obj\Debug\net8.0\Blood Bank Management Application.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\manav\source\repos\Blood Bank Management Application\Blood Bank Management Application\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\manav\source\repos\Blood Bank Management Application\Blood Bank Management Application\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\manav\source\repos\Blood Bank Management Application\Blood Bank Management Application\obj\Debug\net8.0\staticwebassets\msbuild.Blood Bank Management Application.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\manav\source\repos\Blood Bank Management Application\Blood Bank Management Application\obj\Debug\net8.0\staticwebassets\msbuild.build.Blood Bank Management Application.props
+C:\Users\manav\source\repos\Blood Bank Management Application\Blood Bank Management Application\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Blood Bank Management Application.props
+C:\Users\manav\source\repos\Blood Bank Management Application\Blood Bank Management Application\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Blood Bank Management Application.props
+C:\Users\manav\source\repos\Blood Bank Management Application\Blood Bank Management Application\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\manav\source\repos\Blood Bank Management Application\Blood Bank Management Application\obj\Debug\net8.0\scopedcss\bundle\Blood Bank Management Application.styles.css
+C:\Users\manav\source\repos\Blood Bank Management Application\Blood Bank Management Application\obj\Debug\net8.0\Blood Ba.9FAC0683.Up2Date
+C:\Users\manav\source\repos\Blood Bank Management Application\Blood Bank Management Application\obj\Debug\net8.0\Blood Bank Management Application.dll
+C:\Users\manav\source\repos\Blood Bank Management Application\Blood Bank Management Application\obj\Debug\net8.0\refint\Blood Bank Management Application.dll
+C:\Users\manav\source\repos\Blood Bank Management Application\Blood Bank Management Application\obj\Debug\net8.0\Blood Bank Management Application.pdb
+C:\Users\manav\source\repos\Blood Bank Management Application\Blood Bank Management Application\obj\Debug\net8.0\Blood Bank Management Application.genruntimeconfig.cache
+C:\Users\manav\source\repos\Blood Bank Management Application\Blood Bank Management Application\obj\Debug\net8.0\ref\Blood Bank Management Application.dll

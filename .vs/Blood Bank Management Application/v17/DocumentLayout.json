@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manav\\source\\repos\\Blood Bank Management Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7494D175-A601-449A-95F9-7750A8A1F226}|Blood Bank Management Application\\Blood Bank Management Application.csproj|c:\\users\\manav\\source\\repos\\blood bank management application\\blood bank management application\\controllers\\bloodbankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7494D175-A601-449A-95F9-7750A8A1F226}|Blood Bank Management Application\\Blood Bank Management Application.csproj|solutionrelative:blood bank management application\\controllers\\bloodbankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7494D175-A601-449A-95F9-7750A8A1F226}|Blood Bank Management Application\\Blood Bank Management Application.csproj|c:\\users\\manav\\source\\repos\\blood bank management application\\blood bank management application\\models\\bloodbankentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7494D175-A601-449A-95F9-7750A8A1F226}|Blood Bank Management Application\\Blood Bank Management Application.csproj|solutionrelative:blood bank management application\\models\\bloodbankentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BloodBankController.cs",
+              "DocumentMoniker": "C:\\Users\\manav\\source\\repos\\Blood Bank Management Application\\Blood Bank Management Application\\Controllers\\BloodBankController.cs",
+              "RelativeDocumentMoniker": "Blood Bank Management Application\\Controllers\\BloodBankController.cs",
+              "ToolTip": "C:\\Users\\manav\\source\\repos\\Blood Bank Management Application\\Blood Bank Management Application\\Controllers\\BloodBankController.cs",
+              "RelativeToolTip": "Blood Bank Management Application\\Controllers\\BloodBankController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T06:12:12.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BloodBankEntry.cs",
+              "DocumentMoniker": "C:\\Users\\manav\\source\\repos\\Blood Bank Management Application\\Blood Bank Management Application\\Models\\BloodBankEntry.cs",
+              "RelativeDocumentMoniker": "Blood Bank Management Application\\Models\\BloodBankEntry.cs",
+              "ToolTip": "C:\\Users\\manav\\source\\repos\\Blood Bank Management Application\\Blood Bank Management Application\\Models\\BloodBankEntry.cs",
+              "RelativeToolTip": "Blood Bank Management Application\\Models\\BloodBankEntry.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAzwAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T06:11:41.173Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
